@@ -1,4 +1,3 @@
-Here’s a `README.md` for your project based on the provided JavaScript code:
 
 ```markdown
 # PDF Viewer Application
